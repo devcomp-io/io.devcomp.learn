@@ -45,3 +45,10 @@ If you can assist in making this happen, please do what you can.
 
   * Instead of the user entering information, a service may be connected that based on some established identity fetches the relevant
     information to avoid any breaks in the realtime interaction of a user with a new component.
+  * Git is great for distribution if conflicts can be avoided. Thus we will use only a subset of the capabilities of the above solution
+    and describe distribution flows that can be automatically orchestrated only.
+
+#### Abstraction
+
+  * The above solution, if implemeneted in a light enough fashion can become a standard portable JavaScript component capable
+    of described processing for all types of data streams.
