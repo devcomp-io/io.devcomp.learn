@@ -28,6 +28,7 @@ If you can assist in making this happen, please do what you can.
     * Also used to sync JSON structures across nodes over a network [kriskowal](https://github.com/kriskowal)
   * A layerd filesystem that overlays JSON structures using paths [kriskowal](https://github.com/kriskowal) [cadorn](https://github.com/cadorn)
   * A merging language and schema system to process abstarcted JSON structures into the **single stable blueprint observable JavaScript object**. [cadorn](https://github.com/cadorn)
+    * https://github.com/montagejs/frb to observe and replicate changes [kriskowal](https://github.com/kriskowal)
   * Various NodeJS modules to consume the blueprint object to build distributed services and applications. [cadorn](https://github.com/cadorn)
   * Various approaches to model aspects of a system through the proposed solution. [cadorn](https://github.com/cadorn)
 
